@@ -294,3 +294,18 @@ p {
         margin-bottom: 50px;
     }
 }
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .timeline-header span {
+        margin-top: 15px;
+    }
+}
+@media (min-width: 1024px) {
+    .row.guttex-xl {
+        --bs-gutter-x: 100px;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+    .timeline-header {
+        display: block;
+    }
+}
