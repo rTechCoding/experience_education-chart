@@ -160,7 +160,6 @@ abbr[data-bs-original-title],abbr[title] {
     -webkit-text-decoration-skip-ink: none;
     text-decoration-skip-ink: none
 }
-
 address {
     margin-bottom: 1rem;
     font-style: normal;
@@ -11636,3 +11635,4 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
+
