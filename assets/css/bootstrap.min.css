@@ -356,7 +356,6 @@ select:disabled {
 [type=button]:not(:disabled),[type=reset]:not(:disabled),[type=submit]:not(:disabled),button:not(:disabled) {
     cursor: pointer
 }
-
 ::-moz-focus-inner {
     padding: 0;
     border-style: none
@@ -11635,4 +11634,5 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
+
 
